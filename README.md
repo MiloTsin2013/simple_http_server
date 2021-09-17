@@ -27,6 +27,7 @@ $ python simple_http_server.py 8000
 ## Todo
 - [x] support python3
 - [ ] support Multi-threaded
+- [ ] checking the file to be uploaded(could upload a empty file without choosing a file.)
 
 ## Contributing
 
